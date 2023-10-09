@@ -1,10 +1,10 @@
 # DEBUGGING FOR FIRST AND SECOND YEAR
 
-*Q1*
+# Language: C
+
+*Q1:*
 **Modify the following code to give an output of 17**
 
-
-# C
 ```c
 #include <stdio.h>
 int main()
@@ -15,7 +15,7 @@ int main()
 }
 ```
 
-*Q2*
+*Q2:*
 **Modify the following code to find the minimum and largest element in the array**
 
 ```c
@@ -54,7 +54,7 @@ int main()
 }
 ```
 
-*Q3*
+*Q3:*
 **Fix the following code which check if the given number is prime or not**
 
 ```c

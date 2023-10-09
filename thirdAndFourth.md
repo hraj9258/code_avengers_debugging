@@ -1,8 +1,10 @@
 # DEBUGGING FOR THIRD AND FOURTH YEAR
 
-## **Q1 Fix the following code to implement selection Sort**
- ##
+### Language: Use any one from below mentioned
 
+### Please Do Not Modify the driver code
+
+## **Q1 Fix the following code to implement selection Sort**
 *C++*
 ```cpp
 #include <iostream>
@@ -230,9 +232,9 @@ vector<int> printSpiral(vector<vector<int>> mat) {
 
 //Driver code(DONT MODIFY)
 int main() {
-  vector<vector<int>> mat   {{1, 2, 3, 4},
-                             {5, 6, 7, 8},
-	                         {9, 10, 11, 12},
+  vector<vector<int>> mat   {{1,  2,  3,  4},
+                             {5,  6,  7,  8},
+	                         {9,  10, 11, 12},
 		                     {13, 14, 15, 16}};
   vector<int> ans = printSpiral(mat);
 
@@ -286,9 +288,9 @@ public class SpiralTraversal {
 
     public static void main(String[] args) {
         int[][] mat = {
-            {1, 2, 3, 4},
-            {5, 6, 7, 8},
-            {9, 10, 11, 12},
+            {1,  2,  3,  4},
+            {5,  6,  7,  8},
+            {9,  10, 11, 12},
             {13, 14, 15, 16}
         };
 
@@ -337,9 +339,9 @@ def printSpiral(mat):
     return ans
 
 mat = [
-    [1, 2, 3, 4],
-    [5, 6, 7, 8],
-    [9, 10, 11, 12],
+    [1,  2,  3,  4],
+    [5,  6,  7,  8],
+    [9,  10, 11, 12],
     [13, 14, 15, 16]
 ]
 
