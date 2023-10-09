@@ -4,7 +4,7 @@
 
 ### Please Do Not Modify the driver code
 
-## **Q1 Fix the following code to implement selection Sort**
+## **Q1 Fix the following code to implement Bubble Sort**
 *C++*
 ```cpp
 #include <iostream>
@@ -197,7 +197,7 @@ print("List after rotating left by", k, "positions:", arr)
 
 ## **Q3 Fix the following code which traverse an array in spiral order** ##
 
-![spiral](image-1.png)
+![https://lh5.googleusercontent.com/hZPzGMsKGm29AE34ZtOii2D76g2_M0mXxbnceTnuxSyodzJTUSYWJz3umCeyEWMas0OtAQVWE17WEDSQ_nbg6B_7m1mFyNfmzsN34GDhQjHDa4eV20u1wG4mBjPefJyRU53fAAe5hFQ2ZYChxw](image-1.png)
 
 *C++*
 ```cpp
